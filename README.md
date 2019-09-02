@@ -32,3 +32,5 @@ http://trafalbad.hatenadiary.jp/entry/2019/08/04/133040
 <img width="394" alt="62344273-4dcb5000-b528-11e9-877b-77d6c929b7d6" src="https://user-images.githubusercontent.com/48679574/64084113-dffe8800-cd62-11e9-83f4-346602c8dd60.png">
 
 visualize word2vec<hr>
+
+<img width="785" alt="62261196-73385b00-b44f-11e9-97ee-438a47c20066" src="https://user-images.githubusercontent.com/48679574/64084122-058b9180-cd63-11e9-9898-fc529c34032c.png">
