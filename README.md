@@ -25,7 +25,11 @@ This visualization mechanism is written below my blog.
 http://trafalbad.hatenadiary.jp/entry/2019/08/04/133040
 
 
-visualize attention<hr>
+<b>visualize attention</b>
+<img width="786" alt="62312077-3f4d4c00-b4c8-11e9-8c80-56da94ccc6d9" src="https://user-images.githubusercontent.com/48679574/64084095-a88fdb80-cd62-11e9-87e1-946bd88a8663.png">
+
+
+<hr>
 
 
 visualize word2vec<hr>
