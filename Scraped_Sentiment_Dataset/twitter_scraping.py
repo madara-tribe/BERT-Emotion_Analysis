@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 # get tweet text and emotion label
 emotions = [["angry", "angry1", "angry2"], ["disgust", "disgust2"], ["fear", "fear2", "fear3"], ["happy", "happy2", "happy3"],
             "sad", ["surprise", "surprise2", "surprise3"]]
-dir_path = "sentiment_sh"
+dir_path = "sentiment_twitterscraping"
 
 size = 60000
 df = []
