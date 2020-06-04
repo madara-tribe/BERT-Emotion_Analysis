@@ -5,6 +5,8 @@ This task is related to emotion analysis which predicts 6 emotions(happy, angry,
 I made dataset by scraping texts from movie review site and twitter.
 And the model I used is Bert.
 
+You should be reffered to [here](https://qiita.com/hideki/items/8cae63a0ba80e8d34e39) for keras-BERT
+
 Show below my blog link about this task's process and detail.
 
 
