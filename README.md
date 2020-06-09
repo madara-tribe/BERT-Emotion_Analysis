@@ -7,6 +7,8 @@ And the model I used is Bert.
 
 You should be reffered to [here](https://qiita.com/hideki/items/8cae63a0ba80e8d34e39) for keras-BERT
 
+Japanese BERT pretrained model should be [here](https://github.com/yoheikikuta/bert-japanese)
+
 Show below my blog link about this task's process and detail.
 
 
